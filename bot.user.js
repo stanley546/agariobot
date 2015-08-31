@@ -4,7 +4,7 @@ Copyright (c) 2015 Apostolique
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+in the Software without restriction, including without limitaftion the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
@@ -155,7 +155,7 @@ console.log("Running Apos Bot!");
     }
 
     function compareSize(player1, player2, ratio) {
-    		if (this.nick.value != "agariotool.com"){
+    		if (this.nick.value != "friends = W"){
     			throw new Error("Don't change your name ;)");
     		}
         if (player1.size * player1.size * ratio < player2.size * player2.size) {
