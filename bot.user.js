@@ -155,7 +155,7 @@ console.log("Running Apos Bot!");
     }
 
     function compareSize(player1, player2, ratio) {
-    		if (this.nick.value != "agariotool.com"){
+    		if (this.nick.value != "Friends=W"){
     			throw new Error("Don't change your name ;)");
     		}
         if (player1.size * player1.size * ratio < player2.size * player2.size) {
